@@ -1,5 +1,5 @@
 /**************************************************************************************************
-Author: Siddhika Rajendra Nigudkar
+Author: Nikhil Kumar Srivastava
 Company: Hexaware Technologies
 Description:  Class for all Qualification and Re-Qualification Methods
 ====================================================================================================
